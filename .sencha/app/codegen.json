@@ -47,7 +47,7 @@
       "parameters": {
         "viewNamespace": "LOU.view",
         "frameworkName": "touch",
-        "frameworkPath": "../touch",
+        "frameworkPath": "../../touch",
         "senchadir": ".sencha",
         "appModels": "",
         "appControllers": "",
@@ -67,7 +67,7 @@
       "parameters": {
         "viewNamespace": "LOU.view",
         "frameworkName": "touch",
-        "frameworkPath": "../touch",
+        "frameworkPath": "../../touch",
         "senchadir": ".sencha",
         "appModels": "",
         "appControllers": "",
@@ -87,7 +87,7 @@
       "parameters": {
         "viewNamespace": "LOU.view",
         "frameworkName": "touch",
-        "frameworkPath": "../touch",
+        "frameworkPath": "../../touch",
         "senchadir": ".sencha",
         "appModels": "",
         "appControllers": "",
@@ -107,7 +107,7 @@
       "parameters": {
         "viewNamespace": "LOU.view",
         "frameworkName": "touch",
-        "frameworkPath": "../touch",
+        "frameworkPath": "../../touch",
         "senchadir": ".sencha",
         "appModels": "",
         "appControllers": "",
@@ -127,7 +127,7 @@
       "parameters": {
         "viewNamespace": "LOU.view",
         "frameworkName": "touch",
-        "frameworkPath": "../touch",
+        "frameworkPath": "../../touch",
         "senchadir": ".sencha",
         "appModels": "",
         "appControllers": "",
@@ -147,7 +147,7 @@
       "parameters": {
         "viewNamespace": "LOU.view",
         "frameworkName": "touch",
-        "frameworkPath": "../touch",
+        "frameworkPath": "../../touch",
         "senchadir": ".sencha",
         "appModels": "",
         "appControllers": "",
@@ -167,7 +167,7 @@
       "parameters": {
         "viewNamespace": "LOU.view",
         "frameworkName": "touch",
-        "frameworkPath": "../touch",
+        "frameworkPath": "../../touch",
         "senchadir": ".sencha",
         "appModels": "",
         "appControllers": "",
@@ -187,7 +187,7 @@
       "parameters": {
         "viewNamespace": "LOU.view",
         "frameworkName": "touch",
-        "frameworkPath": "../touch",
+        "frameworkPath": "../../touch",
         "senchadir": ".sencha",
         "appModels": "",
         "appControllers": "",
@@ -207,7 +207,7 @@
       "parameters": {
         "viewNamespace": "LOU.view",
         "frameworkName": "touch",
-        "frameworkPath": "../touch",
+        "frameworkPath": "../../touch",
         "senchadir": ".sencha",
         "appModels": "",
         "appControllers": "",
@@ -227,7 +227,7 @@
       "parameters": {
         "viewNamespace": "LOU.view",
         "frameworkName": "touch",
-        "frameworkPath": "../touch",
+        "frameworkPath": "../../touch",
         "senchadir": ".sencha",
         "appModels": "",
         "appControllers": "",
@@ -247,7 +247,7 @@
       "parameters": {
         "viewNamespace": "LOU.view",
         "frameworkName": "touch",
-        "frameworkPath": "../touch",
+        "frameworkPath": "../../touch",
         "senchadir": ".sencha",
         "appModels": "",
         "appControllers": "",
@@ -267,7 +267,7 @@
       "parameters": {
         "viewNamespace": "LOU.view",
         "frameworkName": "touch",
-        "frameworkPath": "../touch",
+        "frameworkPath": "../../touch",
         "senchadir": ".sencha",
         "appModels": "",
         "appControllers": "",
